@@ -1,3 +1,4 @@
+package capDois;
 //o pacote de classes java.util disponibilizou a classe Scanner, que implementa operações de entrada de dados pelo teclado.
 import java.util.Scanner;
 
