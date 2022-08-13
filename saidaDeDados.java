@@ -1,3 +1,4 @@
+//Representa todo momento em que o algoritmo precisa interagir com o usuario
 public class saidaDeDados {//equacao
 	public static void main(String[] args) {
 		int i = 2;
